@@ -28,6 +28,7 @@ CREATE TABLE test905.hiscore (
  score int NOT NULL
  );
 
+次は同じ物をswiftで組んでみようと思います。
 
 ●5日間で作ったローグライクなゲーム
 https://github.com/kenjikakera/TEST903-unity2d
