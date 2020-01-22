@@ -2,6 +2,9 @@
 制作日数2日間。
 あえてJSONは使っていません。
 
+完全版は、
+https://www.edge-bp.com/test/test905.zip
+にアップしてあります。
 
 ●mariaDBのuser名とpassはhttpdで設定しています。
 
@@ -31,7 +34,12 @@ CREATE TABLE test905.hiscore (
 次は同じ物をswiftで組んでみようと思います。
 
 ●5日間で作ったローグライクなゲーム
-https://github.com/kenjikakera/TEST903-unity2d
+https://github.com/kenjikakera/TEST903unity2d
+
+
+●以前開発したARkit1.5の音ゲーですが、音ゲーに付随する打ち込み用ツールの実行型(win7以降の-64bit)の公開の許諾を得ましたのでこうかいします。
+https://www.edge-bp.com/test/qedit.zip
+
 
 ●webページ
 https://www.ne.jp/asahi/kenji/pda/
